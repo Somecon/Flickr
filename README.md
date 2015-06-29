@@ -1,2 +1,2 @@
 # Flickr
-Data management and analysis tools for working with Flicrk data
+Data management and analysis tools for working with Flickr data
